@@ -2,6 +2,19 @@
 
 ## Screenshots of the Applications running locally:
 
+### Dark Mode:
+
+<img width="833" alt="quiz4" src="https://user-images.githubusercontent.com/53075286/211192451-cf0e92b7-bca5-48ae-bb12-c15710ce4d6a.png">
+
+### Light Mode :
+
+<img width="960" alt="quiz2" src="https://user-images.githubusercontent.com/53075286/211192466-0c0d94bb-2096-471d-a9b2-522208b92b59.png">
+
+### Results Tab:
+
+<img width="960" alt="quiz3" src="https://user-images.githubusercontent.com/53075286/211192476-026bfa2e-c1a8-4375-aa92-1700227972dc.png">
+
+
 
 
 # Getting Started with Create React App
